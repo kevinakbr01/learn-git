@@ -1,1 +1,2 @@
-console.log('data 1')
+let angka1 = "ifhioeh"
+console.log(angka1)
